@@ -1,0 +1,1 @@
+{"version":3,"sources":["style_big.css"],"names":[],"mappings":"AAAA;EACE,UAAU;EACV,WAAW;EACX,gBAAgB,EAAE","file":"style_big.css","sourcesContent":["* {\n  margin: 0;\n  padding: 0;\n  font-size: 20px; }\n"]}

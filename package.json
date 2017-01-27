@@ -1,0 +1,33 @@
+{
+  "name": "weekly-webdev-challenge-2",
+  "version": "1.0.0",
+  "description": "Landing page coded from .psd, made for WeeklyWebdevChallenge fb group.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/poprostumort/Weekly-WebDev-Challenge-2.git"
+  },
+  "keywords": [
+    "psd2html",
+    "weeklywebdev"
+  ],
+  "author": "Damian Sujkowski",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/poprostumort/Weekly-WebDev-Challenge-2/issues"
+  },
+  "homepage": "https://github.com/poprostumort/Weekly-WebDev-Challenge-2#readme",
+  "devDependencies": {
+    "autoprefixer": "^6.7.0",
+    "gulp": "^3.9.1",
+    "gulp-csso": "^2.0.0",
+    "gulp-postcss": "^6.3.0",
+    "gulp-rename": "^1.2.2",
+    "gulp-sass": "^3.1.0",
+    "gulp-sourcemaps": "^2.4.0",
+    "run-sequence": "^1.2.2"
+  }
+}
